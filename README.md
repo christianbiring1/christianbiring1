@@ -1,8 +1,8 @@
 
 <h2 align = "center">Hi, I'm Christian Biringanine</h2>
 
-          
-   ![image](https://user-images.githubusercontent.com/97100091/170822063-d2b97e95-5169-45fd-a2c1-c85d2cc7d009.png) 
+
+![giphy](https://user-images.githubusercontent.com/97100091/170823363-d93b0210-4645-4c26-99d7-14c301d023e7.gif)
 
 
 <p align = "center">Software Developper, passionate and Addicted to Programming </br> I'm currently learning Web development at microverse</p>
