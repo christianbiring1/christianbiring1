@@ -5,7 +5,7 @@
 ![giphy](https://user-images.githubusercontent.com/97100091/170823363-d93b0210-4645-4c26-99d7-14c301d023e7.gif)
 
 
-<p align = "center">Software Developper, passionate and Addicted to Programming </br> I'm currently learning Web development at microverse</p>
+<p align = "center">Software Developper, passionate and Addicted to Programming </br> I'm currently working on side projects to strengthen my professional skills as a developer and professional as well.</p>
 
 
 - 🔭 I’m currently working on milestone project 
