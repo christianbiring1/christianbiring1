@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Webdevelopment at Microverse
 - 👯 I’m looking to collaborate on  Real world project in tech
 - 🤔 I’m looking for help with any tech related topic
-- 💬 Ask me about HTML, CSS, JavaScript
+- 💬 Ask me about Rails, React, JavaScript
 - 📫 How to reach me: 
 
 <!-- display the social media buttons in your README -->
@@ -28,5 +28,5 @@
 [5]: https://www.github.com/christianbiring1
 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm able to walk 10Km talking to myself when I get stuck
 
