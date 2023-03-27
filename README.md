@@ -21,6 +21,8 @@
 [![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][4]
 [![github](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Github.png (Github))][5]
 
+![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
+
 <!-- To Link your profile to the media buttons -->
 
 [3]: https://www.twitter.com/@christianbirin4
