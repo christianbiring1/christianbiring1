@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently looking for my next role
-- 🌱 I’m currently learning C#, NodeJS
+- 🌱 I’m currently learning NodeJS, TypeScript and c# 
 - 👯 I’m looking to collaborate on  Real world project in tech
 - 🤔 I’m looking for help with any tech related topic
 - 💬 Ask me about Rails, React, JavaScript
