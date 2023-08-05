@@ -6,13 +6,13 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/97100091/170823363-d93b0210-4645-4c26-99d7-14c301d023e7.gif" />
 </p>
-<p align = "center">Software Developper, passionate and Addicted to Programming </br> I'm currently working on side projects to strengthen my professional skills as a developer and professional as well.</p>
+<p align = "center">Software Developer, passionate and Addicted to Programming </br> I'm currently working on side projects to strengthen my professional skills as a developer and professional as well.</p>
 
 
 - 🔭 I’m currently looking for my next role
-- 🌱 I’m currently learning NodeJS, TypeScript and c# 
-- 👯 I’m looking to collaborate on  Real world project in tech
-- 🤔 I’m looking for help with any tech related topic
+- 🌱 I’m currently learning NodeJS, TypeScript, and c# 
+- 👯 I’m looking to collaborate on  Real-world project in tech
+- 🤔 I’m looking for help with any tech-related topic
 - 💬 Ask me about Rails, React, JavaScript
 - 📫 How to reach me: 
 
@@ -32,7 +32,7 @@
  <h4>Languages</h4>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ruby,ts,nodejs,cs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ruby" />
   </a>
 </p>
 <h4>Frameworks</h4>
@@ -44,7 +44,7 @@
 <h4>Tools</h4>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redux,vite,webpack,git,babel,bash,firebase,jest,linux,powershell" />
+    <img src="https://skillicons.dev/icons?i=redux,vite,webpack,git,babel,firebase,jest," />
   </a>
 </p>
 <h4>Data Base Managment Systems</h4>
@@ -53,6 +53,23 @@
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
   </a>
 </p>
+
+<h4>What I'm Learning</h4>
+<table>
+ <tr>
+ <th>Laguages</th>
+ <th>Framewors</th>
+ </tr>
+ <tr>
+  <td>
+    <p>
+     <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ts,nodejs,cs" />
+     </a>
+    </p>
+  </td>
+ </tr>
+</table>
 
 <h4>Interface Development Environment(IDE)</h4>
 <p>
