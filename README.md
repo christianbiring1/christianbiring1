@@ -29,18 +29,29 @@
 [5]: https://www.github.com/christianbiring1
 
  <h3>Skills:</h3>
- <h4>Languages</h4>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ruby" />
-  </a>
-</p>
-<h4>Frameworks</h4>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,sass,tailwind,react,rails,express,dotnet" />
-  </a>
-</p>
+ <table>
+  <tr>
+   <th>Languages</th>
+   <th>Frameworks</th>
+  </tr>
+  <tr>
+   <td>
+    <p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ruby" />
+      </a>
+    </p>
+   </td>
+   <td>
+     <p>
+       <a href="https://skillicons.dev">
+         <img src="https://skillicons.dev/icons?i=rails,react,bootstrap,sass,tailwind" />
+       </a>
+     </p>
+   </td>
+  </tr>
+ </table>
+
 <h4>Tools</h4>
 <p>
   <a href="https://skillicons.dev">
@@ -50,7 +61,7 @@
 <h4>Data Base Managment Systems</h4>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql" />
   </a>
 </p>
 
@@ -59,6 +70,7 @@
  <tr>
  <th>Laguages</th>
  <th>Framewors</th>
+  <th>DBMS</th>
  </tr>
  <tr>
   <td>
@@ -68,13 +80,27 @@
      </a>
     </p>
   </td>
+  <td>
+   <p>
+     <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=express,dotnet" />
+     </a>
+    </p>
+  </td>
+  <td>
+   <p>
+     <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mongodb" />
+     </a>
+    </p>
+  </td>
  </tr>
 </table>
 
 <h4>Interface Development Environment(IDE)</h4>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
 </p>
 
