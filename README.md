@@ -45,7 +45,7 @@
    <td>
      <p>
        <a href="https://skillicons.dev">
-         <img src="https://skillicons.dev/icons?i=rails,react,bootstrap,sass,tailwind" />
+         <img src="https://skillicons.dev/icons?i=rails,react,bootstrap,sass,tailwind&perline=3" />
        </a>
      </p>
    </td>
@@ -55,7 +55,7 @@
 <h4>Tools</h4>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redux,vite,webpack,git,babel,firebase,jest," />
+    <img src="https://skillicons.dev/icons?i=redux,vite,webpack,git,babel,firebase,jest,postman&perline=6" />
   </a>
 </p>
 <h4>Data Base Managment Systems</h4>
@@ -76,14 +76,14 @@
   <td>
     <p>
      <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=ts,nodejs,cs" />
+      <img src="https://skillicons.dev/icons?i=ts,nodejs,dart&perline=3" />
      </a>
     </p>
   </td>
   <td>
    <p>
      <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=express,dotnet" />
+      <img src="https://skillicons.dev/icons?i=express,flutter" />
      </a>
     </p>
   </td>
