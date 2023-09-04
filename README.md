@@ -38,7 +38,7 @@
    <td>
     <p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,nodejs, ruby" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,ruby" />
       </a>
     </p>
    </td>
