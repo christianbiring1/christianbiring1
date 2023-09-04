@@ -38,14 +38,14 @@
    <td>
     <p>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,ruby" />
+        <img src="https://skillicons.dev/icons?i=html,css,js,nodejs, ruby" />
       </a>
     </p>
    </td>
    <td>
      <p>
        <a href="https://skillicons.dev">
-         <img src="https://skillicons.dev/icons?i=rails,react,bootstrap,sass,tailwind&perline=3" />
+         <img src="https://skillicons.dev/icons?i=react,rails,express,bootstrap,sass,tailwind&perline=3" />
        </a>
      </p>
    </td>
@@ -76,14 +76,14 @@
   <td>
     <p>
      <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=ts,nodejs,dart&perline=3" />
+      <img src="https://skillicons.dev/icons?i=ts,dart&perline=3" />
      </a>
     </p>
   </td>
   <td>
    <p>
      <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=express,flutter" />
+      <img src="https://skillicons.dev/icons?i=flutter" />
      </a>
     </p>
   </td>
