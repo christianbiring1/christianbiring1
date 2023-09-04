@@ -45,7 +45,7 @@
    <td>
      <p>
        <a href="https://skillicons.dev">
-         <img src="https://skillicons.dev/icons?i=react,rails,express,bootstrap,sass,tailwind&perline=3" />
+         <img src="https://skillicons.dev/icons?i=react,rails,express,bootstrap,sass,tailwind&perline=5" />
        </a>
      </p>
    </td>
@@ -61,7 +61,7 @@
 <h4>Data Base Managment Systems</h4>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=postgres,MySQL,mongodb" />
   </a>
 </p>
 
@@ -70,7 +70,6 @@
  <tr>
  <th>Laguages</th>
  <th>Framewors</th>
-  <th>DBMS</th>
  </tr>
  <tr>
   <td>
@@ -84,13 +83,6 @@
    <p>
      <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=flutter" />
-     </a>
-    </p>
-  </td>
-  <td>
-   <p>
-     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mongodb" />
      </a>
     </p>
   </td>
