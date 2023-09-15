@@ -55,7 +55,7 @@
 <h4>Tools</h4>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redux,vite,webpack,git,babel,firebase,jest,postman&perline=6" />
+    <img src="https://skillicons.dev/icons?i=redux,vite,webpack,git,babel,firebase,jest,postman,materialui&perline=6" />
   </a>
 </p>
 <h4>Data Base Managment Systems</h4>
@@ -82,7 +82,7 @@
   <td>
    <p>
      <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=flutter" />
+      <img src="https://skillicons.dev/icons?i=flutter,docker" />
      </a>
     </p>
   </td>
@@ -92,7 +92,7 @@
 <h4>Interface Development Environment(IDE)</h4>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode" />
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio" />
   </a>
 </p>
 
